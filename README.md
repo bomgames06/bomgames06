@@ -1,8 +1,9 @@
 # Hi there, I'm Matheus 👋
 
 <p align="center">
-  <!-- Exemplos de Badges de Projetos -->
-  <img src="https://img.shields.io/chrome-web-store/users/kjhokibigaobhcmjabhjbhncapklgjkb?label=Streaming-Next%20Users&style=flat-square&color=blue" alt="Streaming-Next Chrome Extension Users" />
+  <a href="https://chromewebstore.google.com/detail/kjhokibigaobhcmjabhjbhncapklgjkb" target="_blank">
+    <img src="https://img.shields.io/chrome-web-store/users/kjhokibigaobhcmjabhjbhncapklgjkb?label=Streaming-Next%20Users&style=flat-square&color=blue" alt="Streaming-Next Chrome Extension on Web Store" />
+  </a>
   &nbsp;
   <img src="https://img.shields.io/badge/Mayuri_Bot-7289DA?style=flat-square&logo=discord" alt="Mayuri Discord Bot Servers" />
 </p>
@@ -14,20 +15,40 @@
 ### 💻 Languages & Technologies
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=flat-square" alt="Assembly" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
-  <img src="https://img.shields.io/badge/Nuxt-00C58E?style=flat-square&logo=nuxt&logoColor=white" alt="Nuxt" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript Official Documentation" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript Official Site" />
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++ Official Site" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank">
+    <img src="https://img.shields.io/badge/Assembly-6E4C13?style=flat-square" alt="Assembly Language Wikipedia" />
+  </a>
+  <a href="https://dev.java/" target="_blank">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java Official Site" />
+  </a>
+  <a href="https://vuejs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js Official Site" />
+  </a>
+  <a href="https://nuxt.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Nuxt-00C58E?style=flat-square&logo=nuxt&logoColor=white" alt="Nuxt.js Official Site" />
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Official Site" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js Official Site" />
+  </a>
+  <a href="https://www.electronjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron Official Site" />
+  </a>
 </p>
 
 ### 🛠️ What I'm working on
-*   **Streaming-Next:** My personal Chrome extension to keep track of the Twitch livestreams I follow. I'm actively maintaining it and adding new features as soon as the APIs make them available.
+*   **Streaming-Next:** My personal Chrome extension to keep track of the Twitch livestreams I follow. I'm actively maintaining it and adding new features as soon as the APIs make them available. [Check it out here](https://chromewebstore.google.com/detail/kjhokibigaobhcmjabhjbhncapklgjkb).
 *   **Project-Nina:** A website I'm developing for a family member. I'll share more details about what it does once it's closer to launch!
 *   **Mayuri:** My custom Discord bot for my personal server. It manages channels and messages, and uses the IGDB API to list upcoming game releases and free games.
 
