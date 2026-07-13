@@ -49,7 +49,7 @@
 
 ### 🛠️ What I'm working on
 *   **Streaming-Next:** My personal Chrome extension to keep track of the Twitch livestreams I follow. I'm actively maintaining it and adding new features as soon as the APIs make them available. [Check it out here](https://chromewebstore.google.com/detail/kjhokibigaobhcmjabhjbhncapklgjkb).
-*   **Project-Nina:** A website I'm developing for a family member. I'll share more details about what it does once it's closer to launch!
+*   **DM Podiatria:** A website about Podiatry I'm developed for a family member. Build in Nuxt.JS and available to access. [Check it out here](https://www.dmpodiatria.com)
 *   **Mayuri:** My custom Discord bot for my personal server. It manages channels and messages, and uses the IGDB API to list upcoming game releases and free games.
 
 ### 📚 What I'm currently learning
