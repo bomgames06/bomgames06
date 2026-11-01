@@ -1,6 +1,6 @@
 <!-- ============================== HEADER ============================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=200&section=header&text=Matheus%20Dutra&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20bomgames06&descAlignY=58&descSize=18&animation=fadeIn" alt="Matheus Dutra — Full Stack Developer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=200&section=header&text=Matheus%20M.%20Dutra&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20bomgames06&descAlignY=58&descSize=18&animation=fadeIn" alt="Matheus M. Dutra — Full Stack Developer" width="100%" />
 </p>
 
 <p align="center">
