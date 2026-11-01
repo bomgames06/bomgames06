@@ -49,7 +49,8 @@
 
 ### 🛠️ What I'm working on
 *   **Streaming-Next:** My personal Chrome extension to keep track of the Twitch livestreams I follow. I'm actively maintaining it and adding new features as soon as the APIs make them available. [Check it out here](https://chromewebstore.google.com/detail/kjhokibigaobhcmjabhjbhncapklgjkb).
-*   **DM Podiatria:** A website about Podiatry I'm developed for a family member. Build in Nuxt.JS and available to access. [Check it out here](https://www.dmpodiatria.com)
+*   **DM Podiatria:** A website about Podiatry I developed for a family member. Built in Nuxt.js and available to access. [Check it out here](https://www.dmpodiatria.com)
+*   **DM Gestão:** What started as the clinic's internal system grew into a SaaS management platform for any healthcare professional (podiatrists, nurses, physicians, physiotherapists, dentists and more). It covers scheduling with online booking, electronic health records, prescriptions, inventory and billing, with multiple clinics on the same platform. Built with Nuxt and fully serverless, with privacy by design: patient data is encrypted, every access is audited, it follows the LGPD and medical documents can be digitally signed with ICP-Brasil certificates.
 *   **Mayuri:** My custom Discord bot for my personal server. It manages channels and messages, and uses the IGDB API to list upcoming game releases and free games.
 
 ### 📚 What I'm currently learning
@@ -64,4 +65,4 @@ Last but not least, I once developed a "Guitar Hero" clone entirely in Assembly 
 
 ### 📫 How to reach me
 
-[<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" width="40" alt="Twitter">](https://x.com/bomgames06) &nbsp;&nbsp;&nbsp; [<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="40" alt="LinkedIn">](https://www.linkedin.com/in/matheus-machado-dutra/) &nbsp;&nbsp;&nbsp; [<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/email.svg" width="40" alt="Email">](mailto:matheus.dutra@bomgames06.com)
+[<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" width="40" alt="Twitter">](https://x.com/bomgames06) &nbsp;&nbsp;&nbsp; [<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="40" alt="LinkedIn">](https://www.linkedin.com/in/matheus-machado-dutra/) &nbsp;&nbsp;&nbsp; [<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/email.svg" width="40" alt="Email">](mailto:matheus.dutra@bomlabs.com.br)
