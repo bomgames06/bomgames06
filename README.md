@@ -1,68 +1,154 @@
-# Hi there, I'm Matheus 👋
+<!-- ============================== HEADER ============================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=200&section=header&text=Matheus%20Dutra&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20bomgames06&descAlignY=58&descSize=18&animation=fadeIn" alt="Matheus Dutra — Full Stack Developer" width="100%" />
+</p>
 
 <p align="center">
-  <a href="https://chromewebstore.google.com/detail/kjhokibigaobhcmjabhjbhncapklgjkb" target="_blank">
-    <img src="https://img.shields.io/chrome-web-store/users/kjhokibigaobhcmjabhjbhncapklgjkb?label=Streaming-Next%20Users&style=flat-square&color=blue" alt="Streaming-Next Chrome Extension on Web Store" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Mayuri_Bot-7289DA?style=flat-square&logo=discord" alt="Mayuri Discord Bot Servers" />
-</p>
-
-> "I'm a versatile software developer. When I need a new tool, I build it myself—like my custom Chrome extension and Discord bot. I enjoy exploring new technologies that deliver great results for any given project."
-
----
-
-### 💻 Languages & Technologies
-
-<p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript Official Documentation" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript Official Site" />
-  </a>
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++ Official Site" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank">
-    <img src="https://img.shields.io/badge/Assembly-6E4C13?style=flat-square" alt="Assembly Language Wikipedia" />
-  </a>
-  <a href="https://dev.java/" target="_blank">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java Official Site" />
-  </a>
-  <a href="https://vuejs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js Official Site" />
-  </a>
-  <a href="https://nuxt.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Nuxt-00C58E?style=flat-square&logo=nuxt&logoColor=white" alt="Nuxt.js Official Site" />
-  </a>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Official Site" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js Official Site" />
-  </a>
-  <a href="https://www.electronjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron Official Site" />
+  <a href="https://portfolio.bomgames06.com/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7F5AF0&center=true&vCenter=true&width=640&lines=When+I+need+a+tool%2C+I+build+it+myself.;Full+stack+with+Nuxt%2C+React+and+TypeScript.;Building+DM+Gest%C3%A3o%2C+a+healthcare+SaaS.;Currently+diving+into+Cybersecurity." alt="Typing introduction" />
   </a>
 </p>
 
-### 🛠️ What I'm working on
-*   **Streaming-Next:** My personal Chrome extension to keep track of the Twitch livestreams I follow. I'm actively maintaining it and adding new features as soon as the APIs make them available. [Check it out here](https://chromewebstore.google.com/detail/kjhokibigaobhcmjabhjbhncapklgjkb).
-*   **DM Podiatria:** A website about Podiatry I developed for a family member. Built in Nuxt.js and available to access. [Check it out here](https://www.dmpodiatria.com)
-*   **DM Gestão:** What started as the clinic's internal system grew into a SaaS management platform for any healthcare professional (podiatrists, nurses, physicians, physiotherapists, dentists and more). It covers scheduling with online booking, electronic health records, prescriptions, inventory and billing, with multiple clinics on the same platform. Built with Nuxt and fully serverless, with privacy by design: patient data is encrypted, every access is audited, it follows the LGPD and medical documents can be digitally signed with ICP-Brasil certificates.
-*   **Mayuri:** My custom Discord bot for my personal server. It manages channels and messages, and uses the IGDB API to list upcoming game releases and free games.
+<p align="center">
+  <a href="https://portfolio.bomgames06.com/"><img src="https://img.shields.io/badge/Portfolio-7F5AF0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/matheus-machado-dutra/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/bomgames06"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
+  <a href="mailto:matheus.dutra@bomlabs.com.br"><img src="https://img.shields.io/badge/Email-2CB67D?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
+</p>
 
-### 📚 What I'm currently learning
-I'm currently starting a **Cybersecurity** course. While the knowledge I have now is enough to build app authentication flows and set up network firewalls, I really want to dive deeper and expand my skills in this area.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bomgames06&label=Profile%20views&color=7F5AF0&style=flat-square" alt="Profile views" />
+</p>
 
-### ⚡ Fun Facts
-Besides development, my main hobby is gaming! I enjoy a huge variety of games, but lately, I've been playing a lot of **FPS, platformers, strategy, and RPGs**—and I also love playing these genres in **VR**.
+## 👋 About me
 
-I'm also really into hardware automation. Back in university, I worked on a team project to build a smart traffic light system for intersections. It used a 16-bit PIC microcontroller to count passing cars and measure their speed, using that data to log traffic patterns and dynamically adjust the green light duration. Another cool project I built was an automated, motorized window using an Arduino that could be scheduled to open and close at specific times.
+> I'm a versatile software developer. When I need a new tool, I build it myself — like my custom Chrome extension and Discord bot. I enjoy exploring new technologies that deliver great results for any given project.
 
-Last but not least, I once developed a "Guitar Hero" clone entirely in Assembly for the Intel 8086 processor. Unfortunately, the source code got lost to time on my old machines!
+- 🧑‍💻 **Full stack developer** based in Curitiba, Brazil
+- 🏥 Building **DM Gestão**, a SaaS platform for healthcare professionals
+- 🔐 Currently learning **Cybersecurity**
+- 🎮 Gamer at heart — FPS, platformers, strategy, RPGs and **VR**
 
-### 📫 How to reach me
+## 🚀 Featured projects
 
-[<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" width="40" alt="Twitter">](https://x.com/bomgames06) &nbsp;&nbsp;&nbsp; [<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="40" alt="LinkedIn">](https://www.linkedin.com/in/matheus-machado-dutra/) &nbsp;&nbsp;&nbsp; [<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/email.svg" width="40" alt="Email">](mailto:matheus.dutra@bomlabs.com.br)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏥 DM Gestão</h3>
+      <p>
+        What started as a clinic's internal system grew into a <b>SaaS management platform</b> for any healthcare professional — podiatrists, nurses, physicians, physiotherapists, dentists and more.
+      </p>
+      <ul>
+        <li>Scheduling with online booking</li>
+        <li>Electronic health records &amp; prescriptions</li>
+        <li>Inventory, billing and multi-clinic support</li>
+        <li>Privacy by design: encrypted patient data, audited access, LGPD compliant</li>
+        <li>Digital signatures with <b>ICP-Brasil</b> certificates</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Nuxt-00C58E?style=flat-square&logo=nuxt&logoColor=white" alt="Nuxt" />
+        <img src="https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white" alt="Serverless" />
+        <img src="https://img.shields.io/badge/LGPD-2CB67D?style=flat-square" alt="LGPD" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📺 Streaming-Next</h3>
+      <p>
+        My personal <b>Chrome extension</b> to keep track of the Twitch livestreams I follow. Actively maintained, with new features added as soon as the APIs make them available.
+      </p>
+      <p>
+        <a href="https://chromewebstore.google.com/detail/kjhokibigaobhcmjabhjbhncapklgjkb">
+          <img src="https://img.shields.io/chrome-web-store/users/kjhokibigaobhcmjabhjbhncapklgjkb?label=Users&style=flat-square&color=7F5AF0&logo=googlechrome&logoColor=white" alt="Streaming-Next users on the Chrome Web Store" />
+        </a>
+        <img src="https://img.shields.io/badge/Twitch_API-9146FF?style=flat-square&logo=twitch&logoColor=white" alt="Twitch API" />
+      </p>
+      <p>
+        <a href="https://chromewebstore.google.com/detail/kjhokibigaobhcmjabhjbhncapklgjkb"><b>→ Get it on the Chrome Web Store</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🦶 DM Podiatria</h3>
+      <p>
+        A website about <b>podiatry</b> I developed for a family member, built with Nuxt.js.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Nuxt-00C58E?style=flat-square&logo=nuxt&logoColor=white" alt="Nuxt" />
+      </p>
+      <p>
+        <a href="https://www.dmpodiatria.com"><b>→ Visit dmpodiatria.com</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Mayuri</h3>
+      <p>
+        My custom <b>Discord bot</b> for my personal server. It manages channels and messages, and uses the IGDB API to list upcoming game releases and free games.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+        <img src="https://img.shields.io/badge/IGDB_API-9147FF?style=flat-square" alt="IGDB API" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+## 💻 Tech stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,cpp,java,vue,nuxtjs,react,nextjs,electron&perline=9" alt="JavaScript, TypeScript, C++, Java, Vue, Nuxt, React, Next.js, Electron" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Assembly_(Intel_8086)-6E4C13?style=flat-square" alt="Assembly" />
+  <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/PIC_Microcontrollers-E01F27?style=flat-square&logo=microchip&logoColor=white" alt="PIC microcontrollers" />
+</p>
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="170" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
+  <img height="170" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bomgames06&hide_border=true&theme=tokyonight&ring=7F5AF0&fire=2CB67D&currStreakLabel=7F5AF0" alt="GitHub streak" />
+</p>
+
+## 📚 Currently learning
+
+I'm starting a **Cybersecurity** course. What I know today is enough to build app authentication flows and set up network firewalls, but I want to go deeper and expand my skills in this area.
+
+## ⚡ Fun facts
+
+<details>
+<summary><b>🚦 Smart traffic light system</b></summary>
+<br />
+Back in university, I worked on a team project to build a smart traffic light system for intersections. It used a <b>16-bit PIC microcontroller</b> to count passing cars and measure their speed, using that data to log traffic patterns and dynamically adjust the green light duration.
+</details>
+
+<details>
+<summary><b>🪟 Automated motorized window</b></summary>
+<br />
+An <b>Arduino</b>-powered window that could be scheduled to open and close at specific times.
+</details>
+
+<details>
+<summary><b>🎸 Guitar Hero in Assembly</b></summary>
+<br />
+I once developed a "Guitar Hero" clone entirely in <b>Assembly for the Intel 8086</b> processor. Unfortunately, the source code got lost to time on my old machines!
+</details>
+
+<details>
+<summary><b>🎮 Gaming</b></summary>
+<br />
+Besides development, my main hobby is gaming. Lately I've been playing a lot of <b>FPS, platformers, strategy and RPGs</b> — and I love playing these genres in <b>VR</b>.
+</details>
+
+<!-- ============================== FOOTER ============================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=120&section=footer" alt="" width="100%" />
+</p>
