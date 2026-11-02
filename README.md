@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://portfolio.bomgames06.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7F5AF0&center=true&vCenter=true&width=640&lines=When+I+need+a+tool%2C+I+build+it+myself.;Full+stack+with+Nuxt%2C+React+and+TypeScript.;Building+DM+Gest%C3%A3o%2C+a+healthcare+SaaS.;Currently+diving+into+Cybersecurity." alt="Typing introduction" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7F5AF0&center=true&vCenter=true&width=640&lines=When+I+need+a+tool%2C+I+build+it+myself.;Full+stack+with+Nuxt%2C+React+and+TypeScript.;Building+S%C3%A1lvia%2C+a+healthcare+SaaS.;Currently+diving+into+Cybersecurity." alt="Typing introduction" />
   </a>
 </p>
 
@@ -25,7 +25,7 @@
 > I'm a versatile software developer. When I need a new tool, I build it myself — like my custom Chrome extension and Discord bot. I enjoy exploring new technologies that deliver great results for any given project.
 
 - 🧑‍💻 **Full stack developer** based in Curitiba, Brazil
-- 🏥 Building **DM Gestão**, a SaaS platform for healthcare professionals
+- 🏥 Building **Sálvia**, a SaaS platform for healthcare professionals
 - 🔐 Currently learning **Cybersecurity**
 - 🎮 Gamer at heart — FPS, platformers, strategy, RPGs and **VR**
 
@@ -34,7 +34,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏥 DM Gestão</h3>
+      <h3>🏥 Sálvia</h3>
       <p>
         What started as a clinic's internal system grew into a <b>SaaS management platform</b> for any healthcare professional — podiatrists, nurses, physicians, physiotherapists, dentists and more.
       </p>
